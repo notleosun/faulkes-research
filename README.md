@@ -1,7 +1,7 @@
 # faulkes-research
 ## Libraries used:
   pandas\
-  plotly\
+  plotly
 
 ## /data/ - asteroid data collected from Hakaela and Sliding springs, marked by HF and SSF respectively
   _cleaned: removed identifier column, date converted to DateTime\
