@@ -4,8 +4,9 @@
   plotly
 
 ## /data/ - asteroid data collected from Hakaela and Sliding springs, marked by HF and SSF respectively
-  _cleaned: removed identifier column, date converted to DateTime\
-  _merged: merged HF and SSF CSVs sorted by date, date is in DateTime\
+  _cleaned: removed identifier column (messed up the conversion to .csv), date converted to DateTime\
+  _merged: merged HF and SSF CSVs sorted by date, date is in DateTime
+  
   date: date of position year/month/day (UT)\
   time: time of position hour:minute (UT)\
   identifier: solar presence identifier\
